@@ -1,0 +1,33 @@
+header{
+    height: 100%;
+    background: #c0eaf5;
+    position: relative;
+}
+header .nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+header .imgHeader{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+header .headerEnd{
+    position: absolute;
+    bottom: 0;
+}
+
+.item .card{
+    padding: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 4px solid;
+}
+.item .card img{
+    width: 100px;
+}
+.title{
+    color: white;
+    background-color: red;
+}
