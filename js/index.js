@@ -14,5 +14,3 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-$(".test h1").text("title")
-console.log("test")
